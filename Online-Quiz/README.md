@@ -46,4 +46,4 @@ Email = shikharverma5714915@gmail.com
 Password = Hellofriends@123
 or Register as new admin.
 
-Note: For admin panel, go to URL ” http://localhost/Online-Quiz/admin.php”
+Note: For admin panel, go to URL ”http://localhost/Online-Quiz/admin.php”
