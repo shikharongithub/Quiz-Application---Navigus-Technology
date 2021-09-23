@@ -24,8 +24,7 @@ points earned for all courses quizzes and each quiz separately.
 
                                 
 # How To Run The Project?
-To run this project, you must have installed a virtual server i.e XAMPP on your PC (for Windows). This Online Quiz System in PHP with source code is free to download, Use for educational purposes only!
-
+To run this project, you must have installed a virtual server i.e XAMPP on your PC (for Windows)
 After Starting Apache and MySQL in XAMPP, follow the following steps.
 
 1st Step: Extract file
