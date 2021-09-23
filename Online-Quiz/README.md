@@ -1,4 +1,4 @@
-# adaptive learning platform - Quiz Application
+# Adaptive learning platform - Quiz Application
 (Level -1 )
 This Project is made by Shikhar Verma ( 1819213104 ) as the assignment module for Navigus Technologies Placement drive Round 2. 
 
