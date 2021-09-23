@@ -40,10 +40,10 @@ After Starting Apache and MySQL in XAMPP, follow the following steps.
 
 After Creating Database,
 
-9th Step: Open a browser and go to URL “http://localhost/Online-Quiz /”
+9th Step: Open a browser and go to URL http://localhost/Online-Quiz /
 # " For initial admin login use : 
 Email = shikharverma5714915@gmail.com
 Password = Hellofriends@123
 or Register as new admin.
 
-Note: For admin panel, go to URL ”http://localhost/Online-Quiz/admin.php”
+Note: For admin panel, go to URL http://localhost/Online-Quiz/admin.php
